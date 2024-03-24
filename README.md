@@ -23,9 +23,11 @@ Visual components and Python
 
 
 ## Program
+````
 DEVELOPED BY : ARCHANA S
 REGISTER NO : 212223040019
-
+````
+````
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
 ser_time2=float(input("Enter the mean  inter service time of Lathe Machine 2 (in secs) :  "))
@@ -63,7 +65,7 @@ if (lam <  mu1) and (lam <  mu2) and (lam <  mu3):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("----------------------------------------------------------------------")
-
+````
 
 ## Output
 ![image](https://github.com/ARCH2006/Open-Jacson-Networks/assets/144300030/641a544b-1b99-4441-a3d9-880eaee6984e)
